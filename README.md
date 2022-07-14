@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/Dev-Consulting/08e884ae-2ccf-44e6-93d4-2eaa324e5671/195d8109-f654-4820-a6af-5549833bdbeb/_apis/work/boardbadge/b8d5b488-cca5-414a-8755-676e0c8b9bfd)](https://dev.azure.com/Dev-Consulting/08e884ae-2ccf-44e6-93d4-2eaa324e5671/_boards/board/t/195d8109-f654-4820-a6af-5549833bdbeb/Microsoft.RequirementCategory)
 # my-cloud-development-projects
