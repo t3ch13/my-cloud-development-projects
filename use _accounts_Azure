@@ -1,0 +1,23 @@
+{
+    "displayName": "User Template",
+    "description": "Template for creating new users",
+    "userPrincipalName": "[userPrincipalName]",
+    "mailNickname": "[mailNickname]",
+    "accountEnabled": true,
+    "passwordProfile": {
+        "password": "[password]",
+        "forceChangePasswordNextSignIn": true
+    },
+    "usageLocation": "[East]",
+    "jobTitle": "[jobTitle]",
+    "department": "[department]",
+    "city": "[Queens]",
+    "state": "[NY]",
+    "country": "[USA]",
+    "postalCode": "[11424]",
+    "officeLocation": "[Main Office]",
+    "mobilePhone": "[718-]",
+    "businessPhones": [
+        "[718-]"
+    ]
+}
